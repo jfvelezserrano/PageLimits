@@ -6,5 +6,5 @@ description='Package to detect page limits in a page picture of a page.',
 author='Jose Velez',
 author_email='jose.velez@urjc.es',
 packages=['page_limits'],
-install_requires=['opencv-python']
+install_requires=['opencv-python','opencv-contrib-python','scipy','matplotlib']
 )
