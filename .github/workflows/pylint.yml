@@ -34,6 +34,6 @@ jobs:
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
         git add docs/pylint_data.html
-        git add docs/pylint_resume.html
+        git add docs/pylint_resume.txt
         git commit -m "Update pylint report" || echo "No changes to commit"
         git push
