@@ -27,7 +27,7 @@ jobs:
     - name: Analysing the code with pylint
       run: |
         pylint $(git ls-files '*.py') --source-roots=y --output-format=json | pylint-json2html -o docs/pylint_data.html
-        pylint $(git ls-files '*.py') --reports=y --output-format=json | pylint-json2html -o docs/pylint_resume.html
+        pylint $(git ls-files '*.py') --reports=y --score=y --output-format=json > docs/pylint_resume.txt
   
     - name: Commit report to repo
       run: |
