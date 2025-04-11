@@ -24,7 +24,7 @@ jobs:
         pip install pylint pylint-json2html
     - name: Analysing the code with pylint
       run: |
-        pylint $(git ls-files '*.py') --output-format=json | pylint-json2html -o pylint.html
+        pylint $(git ls-files '*.py') --output-format=json | pylint-json2html -o metrics/pylint.html
   
     - name: Commit report to repo
       run: |
