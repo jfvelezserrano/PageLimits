@@ -26,14 +26,14 @@ jobs:
         pip install pylint pylint-json2html
     - name: Analysing the code with pylint
       run: |
-        pylint $(git ls-files '*.py') --output-format=json --exit-zero | pylint-json2html -o docs/pylint_data.html
-        pylint $(git ls-files '*.py') --reports=y --score=y --output-format=text --exit-zero > docs/pylint_resume.txt
+        pylint $(git ls-files '*.py') --output-format=json --exit-zero | pylint-json2html -o metrics/pylint_data.html
+        pylint $(git ls-files '*.py') --reports=y --score=y --output-format=text --exit-zero > metrics/pylint_resume.txt
   
     - name: Commit report to repo
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
-        git add docs/pylint_data.html
-        git add docs/pylint_resume.txt
+        git add metrics/pylint_data.html
+        git add metrics/pylint_resume.txt
         git commit -m "Update pylint report" || echo "No changes to commit"
         git push
