@@ -5,6 +5,8 @@ on:
     paths-ignore:
       - 'metrics/**'
 
+  workflow_dispatch:
+
 jobs:
   build:
     if: github.actor != 'github-actions'
