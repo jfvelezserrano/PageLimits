@@ -1,118 +1,118 @@
-[7;33m************* Module page_limits.page_detector[0m
-page_limits/page_detector.py:9:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:12:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:15:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:17:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:21:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:30:20: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:31:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:38:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:50:0: C0301: [1mLine too long (104/100)[0m ([1mline-too-long[0m)
-page_limits/page_detector.py:60:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:64:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:75:20: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:76:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:81:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:95:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:104:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:112:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:117:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:125:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:141:0: C0301: [1mLine too long (101/100)[0m ([1mline-too-long[0m)
-page_limits/page_detector.py:144:23: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:145:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:159:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:160:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:176:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:178:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:180:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:190:0: C0301: [1mLine too long (114/100)[0m ([1mline-too-long[0m)
-page_limits/page_detector.py:192:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:196:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:197:36: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:198:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:206:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:208:91: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:209:0: C0301: [1mLine too long (103/100)[0m ([1mline-too-long[0m)
-page_limits/page_detector.py:210:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:212:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:216:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:218:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:219:88: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:220:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:223:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:228:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:245:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:248:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:253:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:254:25: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:257:0: C0301: [1mLine too long (101/100)[0m ([1mline-too-long[0m)
-page_limits/page_detector.py:261:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:270:64: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-page_limits/page_detector.py:271:0: C0304: [1mFinal newline missing[0m ([1mmissing-final-newline[0m)
-page_limits/page_detector.py:1:0: C0114: [1mMissing module docstring[0m ([1mmissing-module-docstring[0m)
-page_limits/page_detector.py:1:0: E0401: [1;31mUnable to import 'numpy'[0m ([1;31mimport-error[0m)
-page_limits/page_detector.py:2:0: E0401: [1;31mUnable to import 'cv2'[0m ([1;31mimport-error[0m)
-page_limits/page_detector.py:3:0: E0401: [1;31mUnable to import 'matplotlib'[0m ([1;31mimport-error[0m)
-page_limits/page_detector.py:4:0: E0401: [1;31mUnable to import 'scipy.ndimage'[0m ([1;31mimport-error[0m)
-page_limits/page_detector.py:5:0: E0401: [1;31mUnable to import 'scipy.ndimage'[0m ([1;31mimport-error[0m)
-page_limits/page_detector.py:6:0: E0401: [1;31mUnable to import 'scipy.signal'[0m ([1;31mimport-error[0m)
-page_limits/page_detector.py:8:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
-page_limits/page_detector.py:13:4: C0116: [1mMissing function or method docstring[0m ([1mmissing-function-docstring[0m)
-page_limits/page_detector.py:8:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
-page_limits/page_detector.py:16:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
-page_limits/page_detector.py:16:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
-page_limits/page_detector.py:37:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
-page_limits/page_detector.py:37:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
-page_limits/page_detector.py:82:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
-page_limits/page_detector.py:83:37: W0613: [35mUnused argument 'verbose'[0m ([35munused-argument[0m)
-page_limits/page_detector.py:82:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
-page_limits/page_detector.py:91:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
-page_limits/page_detector.py:91:0: R0903: [1;3;35mToo few public methods (0/2)[0m ([1;3;35mtoo-few-public-methods[0m)
-page_limits/page_detector.py:94:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
-page_limits/page_detector.py:97:8: C0103: [1mVariable name "blockSize" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:118:4: C0116: [1mMissing function or method docstring[0m ([1mmissing-function-docstring[0m)
-page_limits/page_detector.py:94:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
-page_limits/page_detector.py:121:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
-page_limits/page_detector.py:124:8: C0103: [1mAttribute name "KEYPOINT_SIZE" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:126:4: C0116: [1mMissing function or method docstring[0m ([1mmissing-function-docstring[0m)
-page_limits/page_detector.py:121:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
-page_limits/page_detector.py:130:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
-page_limits/page_detector.py:201:8: C0103: [1mAttribute name "RESIZE" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:138:12: R1705: [1;3;35mUnnecessary "else" after "return", remove the "else" and de-indent the code inside it[0m ([1;3;35mno-else-return[0m)
-page_limits/page_detector.py:149:13: W1514: [35mUsing open without explicitly specifying an encoding[0m ([35munspecified-encoding[0m)
-page_limits/page_detector.py:171:8: W0612: [35mUnused variable 'reference_descriptors'[0m ([35munused-variable[0m)
-page_limits/page_detector.py:207:4: W0221: [35mNumber of parameters was 2 in 'PointFilter.filter' and is now 3 in overriding 'SiftPointFilter.filter' method[0m ([35marguments-differ[0m)
-page_limits/page_detector.py:207:4: R0914: [1;3;35mToo many local variables (20/15)[0m ([1;3;35mtoo-many-locals[0m)
-page_limits/page_detector.py:224:12: C0103: [1mVariable name "best_matches_Q1" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:225:12: C0103: [1mVariable name "best_matches_Q2" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:226:12: C0103: [1mVariable name "best_matches_Q3" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:227:12: C0103: [1mVariable name "best_matches_Q4" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:235:24: C0103: [1mVariable name "best_matches_Q1" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:238:24: C0103: [1mVariable name "best_matches_Q2" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:241:24: C0103: [1mVariable name "best_matches_Q4" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:244:24: C0103: [1mVariable name "best_matches_Q3" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:215:12: W0612: [35mUnused variable 'cont'[0m ([35munused-variable[0m)
-page_limits/page_detector.py:130:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
-page_limits/page_detector.py:256:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
-page_limits/page_detector.py:259:8: C0103: [1mAttribute name "pointDetector" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:260:8: C0103: [1mAttribute name "pointFilter" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:257:47: C0103: [1mArgument name "pointDetector" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:257:76: C0103: [1mArgument name "pointFilter" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
-page_limits/page_detector.py:262:4: E0102: [1;31mmethod already defined line 257[0m ([1;31mfunction-redefined[0m)
-page_limits/page_detector.py:267:4: C0116: [1mMissing function or method docstring[0m ([1mmissing-function-docstring[0m)
-page_limits/page_detector.py:256:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
-[7;33m************* Module setup[0m
-setup.py:10:0: C0304: [1mFinal newline missing[0m ([1mmissing-final-newline[0m)
-setup.py:1:0: C0114: [1mMissing module docstring[0m ([1mmissing-module-docstring[0m)
-[7;33m************* Module tests.test_page_detector[0m
-tests/test_page_detector.py:7:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-tests/test_page_detector.py:14:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
-tests/test_page_detector.py:16:0: C0304: [1mFinal newline missing[0m ([1mmissing-final-newline[0m)
-tests/test_page_detector.py:1:0: C0114: [1mMissing module docstring[0m ([1mmissing-module-docstring[0m)
-tests/test_page_detector.py:3:0: E0401: [1;31mUnable to import 'cv2'[0m ([1;31mimport-error[0m)
-tests/test_page_detector.py:6:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
-tests/test_page_detector.py:8:4: C0116: [1mMissing function or method docstring[0m ([1mmissing-function-docstring[0m)
+************* Module page_limits.page_detector
+::notice file=page_limits/page_detector.py,line=9,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=12,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=15,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=17,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=21,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=30,endline=,col=20,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=31,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=38,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=50,endline=,col=0,title=C0301::Line too long (104/100)
+::notice file=page_limits/page_detector.py,line=60,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=64,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=75,endline=,col=20,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=76,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=81,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=95,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=104,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=112,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=117,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=125,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=141,endline=,col=0,title=C0301::Line too long (101/100)
+::notice file=page_limits/page_detector.py,line=144,endline=,col=23,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=145,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=159,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=160,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=176,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=178,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=180,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=190,endline=,col=0,title=C0301::Line too long (114/100)
+::notice file=page_limits/page_detector.py,line=192,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=196,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=197,endline=,col=36,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=198,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=206,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=208,endline=,col=91,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=209,endline=,col=0,title=C0301::Line too long (103/100)
+::notice file=page_limits/page_detector.py,line=210,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=212,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=216,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=218,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=219,endline=,col=88,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=220,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=223,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=228,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=245,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=248,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=253,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=254,endline=,col=25,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=257,endline=,col=0,title=C0301::Line too long (101/100)
+::notice file=page_limits/page_detector.py,line=261,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=270,endline=,col=64,title=C0303::Trailing whitespace
+::notice file=page_limits/page_detector.py,line=271,endline=,col=0,title=C0304::Final newline missing
+::notice file=page_limits/page_detector.py,line=1,endline=,col=0,title=C0114::Missing module docstring
+::error file=page_limits/page_detector.py,line=1,endline=1,col=0,title=E0401::Unable to import 'numpy'
+::error file=page_limits/page_detector.py,line=2,endline=2,col=0,title=E0401::Unable to import 'cv2'
+::error file=page_limits/page_detector.py,line=3,endline=3,col=0,title=E0401::Unable to import 'matplotlib'
+::error file=page_limits/page_detector.py,line=4,endline=4,col=0,title=E0401::Unable to import 'scipy.ndimage'
+::error file=page_limits/page_detector.py,line=5,endline=5,col=0,title=E0401::Unable to import 'scipy.ndimage'
+::error file=page_limits/page_detector.py,line=6,endline=6,col=0,title=E0401::Unable to import 'scipy.signal'
+::notice file=page_limits/page_detector.py,line=8,endline=8,col=0,title=C0115::Missing class docstring
+::notice file=page_limits/page_detector.py,line=13,endline=13,col=4,title=C0116::Missing function or method docstring
+::notice file=page_limits/page_detector.py,line=8,endline=8,col=0,title=R0903::Too few public methods (1/2)
+::notice file=page_limits/page_detector.py,line=16,endline=16,col=0,title=C0115::Missing class docstring
+::notice file=page_limits/page_detector.py,line=16,endline=16,col=0,title=R0903::Too few public methods (1/2)
+::notice file=page_limits/page_detector.py,line=37,endline=37,col=0,title=C0115::Missing class docstring
+::notice file=page_limits/page_detector.py,line=37,endline=37,col=0,title=R0903::Too few public methods (1/2)
+::notice file=page_limits/page_detector.py,line=82,endline=82,col=0,title=C0115::Missing class docstring
+::warning file=page_limits/page_detector.py,line=83,endline=83,col=37,title=W0613::Unused argument 'verbose'
+::notice file=page_limits/page_detector.py,line=82,endline=82,col=0,title=R0903::Too few public methods (1/2)
+::notice file=page_limits/page_detector.py,line=91,endline=91,col=0,title=C0115::Missing class docstring
+::notice file=page_limits/page_detector.py,line=91,endline=91,col=0,title=R0903::Too few public methods (0/2)
+::notice file=page_limits/page_detector.py,line=94,endline=94,col=0,title=C0115::Missing class docstring
+::notice file=page_limits/page_detector.py,line=97,endline=97,col=8,title=C0103::Variable name "blockSize" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=118,endline=118,col=4,title=C0116::Missing function or method docstring
+::notice file=page_limits/page_detector.py,line=94,endline=94,col=0,title=R0903::Too few public methods (1/2)
+::notice file=page_limits/page_detector.py,line=121,endline=121,col=0,title=C0115::Missing class docstring
+::notice file=page_limits/page_detector.py,line=124,endline=124,col=8,title=C0103::Attribute name "KEYPOINT_SIZE" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=126,endline=126,col=4,title=C0116::Missing function or method docstring
+::notice file=page_limits/page_detector.py,line=121,endline=121,col=0,title=R0903::Too few public methods (1/2)
+::notice file=page_limits/page_detector.py,line=130,endline=130,col=0,title=C0115::Missing class docstring
+::notice file=page_limits/page_detector.py,line=201,endline=201,col=8,title=C0103::Attribute name "RESIZE" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=138,endline=141,col=12,title=R1705::Unnecessary "else" after "return", remove the "else" and de-indent the code inside it
+::warning file=page_limits/page_detector.py,line=149,endline=149,col=13,title=W1514::Using open without explicitly specifying an encoding
+::warning file=page_limits/page_detector.py,line=171,endline=171,col=8,title=W0612::Unused variable 'reference_descriptors'
+::warning file=page_limits/page_detector.py,line=207,endline=207,col=4,title=W0221::Number of parameters was 2 in 'PointFilter.filter' and is now 3 in overriding 'SiftPointFilter.filter' method
+::notice file=page_limits/page_detector.py,line=207,endline=207,col=4,title=R0914::Too many local variables (20/15)
+::notice file=page_limits/page_detector.py,line=224,endline=224,col=12,title=C0103::Variable name "best_matches_Q1" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=225,endline=225,col=12,title=C0103::Variable name "best_matches_Q2" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=226,endline=226,col=12,title=C0103::Variable name "best_matches_Q3" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=227,endline=227,col=12,title=C0103::Variable name "best_matches_Q4" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=235,endline=235,col=24,title=C0103::Variable name "best_matches_Q1" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=238,endline=238,col=24,title=C0103::Variable name "best_matches_Q2" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=241,endline=241,col=24,title=C0103::Variable name "best_matches_Q4" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=244,endline=244,col=24,title=C0103::Variable name "best_matches_Q3" doesn't conform to snake_case naming style
+::warning file=page_limits/page_detector.py,line=215,endline=215,col=12,title=W0612::Unused variable 'cont'
+::notice file=page_limits/page_detector.py,line=130,endline=130,col=0,title=R0903::Too few public methods (1/2)
+::notice file=page_limits/page_detector.py,line=256,endline=256,col=0,title=C0115::Missing class docstring
+::notice file=page_limits/page_detector.py,line=259,endline=259,col=8,title=C0103::Attribute name "pointDetector" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=260,endline=260,col=8,title=C0103::Attribute name "pointFilter" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=257,endline=257,col=47,title=C0103::Argument name "pointDetector" doesn't conform to snake_case naming style
+::notice file=page_limits/page_detector.py,line=257,endline=257,col=76,title=C0103::Argument name "pointFilter" doesn't conform to snake_case naming style
+::error file=page_limits/page_detector.py,line=262,endline=262,col=4,title=E0102::method already defined line 257
+::notice file=page_limits/page_detector.py,line=267,endline=267,col=4,title=C0116::Missing function or method docstring
+::notice file=page_limits/page_detector.py,line=256,endline=256,col=0,title=R0903::Too few public methods (1/2)
+************* Module setup
+::notice file=setup.py,line=10,endline=,col=0,title=C0304::Final newline missing
+::notice file=setup.py,line=1,endline=,col=0,title=C0114::Missing module docstring
+************* Module tests.test_page_detector
+::notice file=tests/test_page_detector.py,line=7,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=tests/test_page_detector.py,line=14,endline=,col=0,title=C0303::Trailing whitespace
+::notice file=tests/test_page_detector.py,line=16,endline=,col=0,title=C0304::Final newline missing
+::notice file=tests/test_page_detector.py,line=1,endline=,col=0,title=C0114::Missing module docstring
+::error file=tests/test_page_detector.py,line=3,endline=3,col=0,title=E0401::Unable to import 'cv2'
+::notice file=tests/test_page_detector.py,line=6,endline=6,col=0,title=C0115::Missing class docstring
+::notice file=tests/test_page_detector.py,line=8,endline=8,col=4,title=C0116::Missing function or method docstring
 
 
 Report
