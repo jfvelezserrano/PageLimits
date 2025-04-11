@@ -1,1458 +1,256 @@
-[
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 9,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 12,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 15,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 17,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 21,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 30,
-        "column": 20,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 31,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 38,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 50,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "line-too-long",
-        "message": "Line too long (104/100)",
-        "message-id": "C0301"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 60,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 64,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 75,
-        "column": 20,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 76,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 81,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 95,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 104,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 112,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 117,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 125,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 141,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "line-too-long",
-        "message": "Line too long (101/100)",
-        "message-id": "C0301"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 144,
-        "column": 23,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 145,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 159,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 160,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 176,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 178,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 180,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 190,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "line-too-long",
-        "message": "Line too long (114/100)",
-        "message-id": "C0301"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 192,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 196,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 197,
-        "column": 36,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 198,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 206,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 208,
-        "column": 91,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 209,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "line-too-long",
-        "message": "Line too long (103/100)",
-        "message-id": "C0301"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 210,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 212,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 216,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 218,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 219,
-        "column": 88,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 220,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 223,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 228,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 245,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 248,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 253,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 254,
-        "column": 25,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 257,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "line-too-long",
-        "message": "Line too long (101/100)",
-        "message-id": "C0301"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 261,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 270,
-        "column": 64,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 271,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-final-newline",
-        "message": "Final newline missing",
-        "message-id": "C0304"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 1,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-module-docstring",
-        "message": "Missing module docstring",
-        "message-id": "C0114"
-    },
-    {
-        "type": "error",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 1,
-        "column": 0,
-        "endLine": 1,
-        "endColumn": 18,
-        "path": "page_limits/page_detector.py",
-        "symbol": "import-error",
-        "message": "Unable to import 'numpy'",
-        "message-id": "E0401"
-    },
-    {
-        "type": "error",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 2,
-        "column": 0,
-        "endLine": 2,
-        "endColumn": 10,
-        "path": "page_limits/page_detector.py",
-        "symbol": "import-error",
-        "message": "Unable to import 'cv2'",
-        "message-id": "E0401"
-    },
-    {
-        "type": "error",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 3,
-        "column": 0,
-        "endLine": 3,
-        "endColumn": 36,
-        "path": "page_limits/page_detector.py",
-        "symbol": "import-error",
-        "message": "Unable to import 'matplotlib'",
-        "message-id": "E0401"
-    },
-    {
-        "type": "error",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 4,
-        "column": 0,
-        "endLine": 4,
-        "endColumn": 43,
-        "path": "page_limits/page_detector.py",
-        "symbol": "import-error",
-        "message": "Unable to import 'scipy.ndimage'",
-        "message-id": "E0401"
-    },
-    {
-        "type": "error",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 5,
-        "column": 0,
-        "endLine": 5,
-        "endColumn": 40,
-        "path": "page_limits/page_detector.py",
-        "symbol": "import-error",
-        "message": "Unable to import 'scipy.ndimage'",
-        "message-id": "E0401"
-    },
-    {
-        "type": "error",
-        "module": "page_limits.page_detector",
-        "obj": "",
-        "line": 6,
-        "column": 0,
-        "endLine": 6,
-        "endColumn": 35,
-        "path": "page_limits/page_detector.py",
-        "symbol": "import-error",
-        "message": "Unable to import 'scipy.signal'",
-        "message-id": "E0401"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "Preprocesor",
-        "line": 8,
-        "column": 0,
-        "endLine": 8,
-        "endColumn": 17,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-class-docstring",
-        "message": "Missing class docstring",
-        "message-id": "C0115"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "Preprocesor.process",
-        "line": 13,
-        "column": 4,
-        "endLine": 13,
-        "endColumn": 15,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-function-docstring",
-        "message": "Missing function or method docstring",
-        "message-id": "C0116"
-    },
-    {
-        "type": "refactor",
-        "module": "page_limits.page_detector",
-        "obj": "Preprocesor",
-        "line": 8,
-        "column": 0,
-        "endLine": 8,
-        "endColumn": 17,
-        "path": "page_limits/page_detector.py",
-        "symbol": "too-few-public-methods",
-        "message": "Too few public methods (1/2)",
-        "message-id": "R0903"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "OtsuPreprocesor",
-        "line": 16,
-        "column": 0,
-        "endLine": 16,
-        "endColumn": 21,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-class-docstring",
-        "message": "Missing class docstring",
-        "message-id": "C0115"
-    },
-    {
-        "type": "refactor",
-        "module": "page_limits.page_detector",
-        "obj": "OtsuPreprocesor",
-        "line": 16,
-        "column": 0,
-        "endLine": 16,
-        "endColumn": 21,
-        "path": "page_limits/page_detector.py",
-        "symbol": "too-few-public-methods",
-        "message": "Too few public methods (1/2)",
-        "message-id": "R0903"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "HistPreprocesor",
-        "line": 37,
-        "column": 0,
-        "endLine": 37,
-        "endColumn": 21,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-class-docstring",
-        "message": "Missing class docstring",
-        "message-id": "C0115"
-    },
-    {
-        "type": "refactor",
-        "module": "page_limits.page_detector",
-        "obj": "HistPreprocesor",
-        "line": 37,
-        "column": 0,
-        "endLine": 37,
-        "endColumn": 21,
-        "path": "page_limits/page_detector.py",
-        "symbol": "too-few-public-methods",
-        "message": "Too few public methods (1/2)",
-        "message-id": "R0903"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "AdaptativePreprocesor",
-        "line": 82,
-        "column": 0,
-        "endLine": 82,
-        "endColumn": 27,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-class-docstring",
-        "message": "Missing class docstring",
-        "message-id": "C0115"
-    },
-    {
-        "type": "warning",
-        "module": "page_limits.page_detector",
-        "obj": "AdaptativePreprocesor.__binarize_image",
-        "line": 83,
-        "column": 37,
-        "endLine": 83,
-        "endColumn": 44,
-        "path": "page_limits/page_detector.py",
-        "symbol": "unused-argument",
-        "message": "Unused argument 'verbose'",
-        "message-id": "W0613"
-    },
-    {
-        "type": "refactor",
-        "module": "page_limits.page_detector",
-        "obj": "AdaptativePreprocesor",
-        "line": 82,
-        "column": 0,
-        "endLine": 82,
-        "endColumn": 27,
-        "path": "page_limits/page_detector.py",
-        "symbol": "too-few-public-methods",
-        "message": "Too few public methods (1/2)",
-        "message-id": "R0903"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "PointDetector",
-        "line": 91,
-        "column": 0,
-        "endLine": 91,
-        "endColumn": 19,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-class-docstring",
-        "message": "Missing class docstring",
-        "message-id": "C0115"
-    },
-    {
-        "type": "refactor",
-        "module": "page_limits.page_detector",
-        "obj": "PointDetector",
-        "line": 91,
-        "column": 0,
-        "endLine": 91,
-        "endColumn": 19,
-        "path": "page_limits/page_detector.py",
-        "symbol": "too-few-public-methods",
-        "message": "Too few public methods (0/2)",
-        "message-id": "R0903"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "HarrisPointDetector",
-        "line": 94,
-        "column": 0,
-        "endLine": 94,
-        "endColumn": 25,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-class-docstring",
-        "message": "Missing class docstring",
-        "message-id": "C0115"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "HarrisPointDetector.__get_harris_points",
-        "line": 97,
-        "column": 8,
-        "endLine": 97,
-        "endColumn": 17,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Variable name \"blockSize\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "HarrisPointDetector.detect",
-        "line": 118,
-        "column": 4,
-        "endLine": 118,
-        "endColumn": 14,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-function-docstring",
-        "message": "Missing function or method docstring",
-        "message-id": "C0116"
-    },
-    {
-        "type": "refactor",
-        "module": "page_limits.page_detector",
-        "obj": "HarrisPointDetector",
-        "line": 94,
-        "column": 0,
-        "endLine": 94,
-        "endColumn": 25,
-        "path": "page_limits/page_detector.py",
-        "symbol": "too-few-public-methods",
-        "message": "Too few public methods (1/2)",
-        "message-id": "R0903"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "PointFilter",
-        "line": 121,
-        "column": 0,
-        "endLine": 121,
-        "endColumn": 17,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-class-docstring",
-        "message": "Missing class docstring",
-        "message-id": "C0115"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "PointFilter.__init__",
-        "line": 124,
-        "column": 8,
-        "endLine": 124,
-        "endColumn": 26,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Attribute name \"KEYPOINT_SIZE\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "PointFilter.filter",
-        "line": 126,
-        "column": 4,
-        "endLine": 126,
-        "endColumn": 14,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-function-docstring",
-        "message": "Missing function or method docstring",
-        "message-id": "C0116"
-    },
-    {
-        "type": "refactor",
-        "module": "page_limits.page_detector",
-        "obj": "PointFilter",
-        "line": 121,
-        "column": 0,
-        "endLine": 121,
-        "endColumn": 17,
-        "path": "page_limits/page_detector.py",
-        "symbol": "too-few-public-methods",
-        "message": "Too few public methods (1/2)",
-        "message-id": "R0903"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter",
-        "line": 130,
-        "column": 0,
-        "endLine": 130,
-        "endColumn": 21,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-class-docstring",
-        "message": "Missing class docstring",
-        "message-id": "C0115"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.__init__",
-        "line": 201,
-        "column": 8,
-        "endLine": 201,
-        "endColumn": 19,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Attribute name \"RESIZE\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "refactor",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.__str_2_tuple",
-        "line": 138,
-        "column": 12,
-        "endLine": 141,
-        "endColumn": 101,
-        "path": "page_limits/page_detector.py",
-        "symbol": "no-else-return",
-        "message": "Unnecessary \"else\" after \"return\", remove the \"else\" and de-indent the code inside it",
-        "message-id": "R1705"
-    },
-    {
-        "type": "warning",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.__read_samples",
-        "line": 149,
-        "column": 13,
-        "endLine": 149,
-        "endColumn": 50,
-        "path": "page_limits/page_detector.py",
-        "symbol": "unspecified-encoding",
-        "message": "Using open without explicitly specifying an encoding",
-        "message-id": "W1514"
-    },
-    {
-        "type": "warning",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.__compute_refence_descriptors",
-        "line": 171,
-        "column": 8,
-        "endLine": 171,
-        "endColumn": 29,
-        "path": "page_limits/page_detector.py",
-        "symbol": "unused-variable",
-        "message": "Unused variable 'reference_descriptors'",
-        "message-id": "W0612"
-    },
-    {
-        "type": "warning",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.filter",
-        "line": 207,
-        "column": 4,
-        "endLine": 207,
-        "endColumn": 14,
-        "path": "page_limits/page_detector.py",
-        "symbol": "arguments-differ",
-        "message": "Number of parameters was 2 in 'PointFilter.filter' and is now 3 in overriding 'SiftPointFilter.filter' method",
-        "message-id": "W0221"
-    },
-    {
-        "type": "refactor",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.filter",
-        "line": 207,
-        "column": 4,
-        "endLine": 207,
-        "endColumn": 14,
-        "path": "page_limits/page_detector.py",
-        "symbol": "too-many-locals",
-        "message": "Too many local variables (20/15)",
-        "message-id": "R0914"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.filter",
-        "line": 224,
-        "column": 12,
-        "endLine": 224,
-        "endColumn": 27,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Variable name \"best_matches_Q1\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.filter",
-        "line": 225,
-        "column": 12,
-        "endLine": 225,
-        "endColumn": 27,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Variable name \"best_matches_Q2\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.filter",
-        "line": 226,
-        "column": 12,
-        "endLine": 226,
-        "endColumn": 27,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Variable name \"best_matches_Q3\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.filter",
-        "line": 227,
-        "column": 12,
-        "endLine": 227,
-        "endColumn": 27,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Variable name \"best_matches_Q4\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.filter",
-        "line": 235,
-        "column": 24,
-        "endLine": 235,
-        "endColumn": 39,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Variable name \"best_matches_Q1\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.filter",
-        "line": 238,
-        "column": 24,
-        "endLine": 238,
-        "endColumn": 39,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Variable name \"best_matches_Q2\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.filter",
-        "line": 241,
-        "column": 24,
-        "endLine": 241,
-        "endColumn": 39,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Variable name \"best_matches_Q4\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.filter",
-        "line": 244,
-        "column": 24,
-        "endLine": 244,
-        "endColumn": 39,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Variable name \"best_matches_Q3\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "warning",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter.filter",
-        "line": 215,
-        "column": 12,
-        "endLine": 215,
-        "endColumn": 16,
-        "path": "page_limits/page_detector.py",
-        "symbol": "unused-variable",
-        "message": "Unused variable 'cont'",
-        "message-id": "W0612"
-    },
-    {
-        "type": "refactor",
-        "module": "page_limits.page_detector",
-        "obj": "SiftPointFilter",
-        "line": 130,
-        "column": 0,
-        "endLine": 130,
-        "endColumn": 21,
-        "path": "page_limits/page_detector.py",
-        "symbol": "too-few-public-methods",
-        "message": "Too few public methods (1/2)",
-        "message-id": "R0903"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "PageDetector",
-        "line": 256,
-        "column": 0,
-        "endLine": 256,
-        "endColumn": 18,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-class-docstring",
-        "message": "Missing class docstring",
-        "message-id": "C0115"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "PageDetector.__init__",
-        "line": 259,
-        "column": 8,
-        "endLine": 259,
-        "endColumn": 26,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Attribute name \"pointDetector\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "PageDetector.__init__",
-        "line": 260,
-        "column": 8,
-        "endLine": 260,
-        "endColumn": 24,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Attribute name \"pointFilter\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "PageDetector.__init__",
-        "line": 257,
-        "column": 47,
-        "endLine": 257,
-        "endColumn": 74,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Argument name \"pointDetector\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "PageDetector.__init__",
-        "line": 257,
-        "column": 76,
-        "endLine": 257,
-        "endColumn": 99,
-        "path": "page_limits/page_detector.py",
-        "symbol": "invalid-name",
-        "message": "Argument name \"pointFilter\" doesn't conform to snake_case naming style",
-        "message-id": "C0103"
-    },
-    {
-        "type": "error",
-        "module": "page_limits.page_detector",
-        "obj": "PageDetector.__init__",
-        "line": 262,
-        "column": 4,
-        "endLine": 262,
-        "endColumn": 16,
-        "path": "page_limits/page_detector.py",
-        "symbol": "function-redefined",
-        "message": "method already defined line 257",
-        "message-id": "E0102"
-    },
-    {
-        "type": "convention",
-        "module": "page_limits.page_detector",
-        "obj": "PageDetector.detect",
-        "line": 267,
-        "column": 4,
-        "endLine": 267,
-        "endColumn": 14,
-        "path": "page_limits/page_detector.py",
-        "symbol": "missing-function-docstring",
-        "message": "Missing function or method docstring",
-        "message-id": "C0116"
-    },
-    {
-        "type": "refactor",
-        "module": "page_limits.page_detector",
-        "obj": "PageDetector",
-        "line": 256,
-        "column": 0,
-        "endLine": 256,
-        "endColumn": 18,
-        "path": "page_limits/page_detector.py",
-        "symbol": "too-few-public-methods",
-        "message": "Too few public methods (1/2)",
-        "message-id": "R0903"
-    },
-    {
-        "type": "convention",
-        "module": "setup",
-        "obj": "",
-        "line": 10,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "setup.py",
-        "symbol": "missing-final-newline",
-        "message": "Final newline missing",
-        "message-id": "C0304"
-    },
-    {
-        "type": "convention",
-        "module": "setup",
-        "obj": "",
-        "line": 1,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "setup.py",
-        "symbol": "missing-module-docstring",
-        "message": "Missing module docstring",
-        "message-id": "C0114"
-    },
-    {
-        "type": "convention",
-        "module": "tests.test_page_detector",
-        "obj": "",
-        "line": 7,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "tests/test_page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "tests.test_page_detector",
-        "obj": "",
-        "line": 14,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "tests/test_page_detector.py",
-        "symbol": "trailing-whitespace",
-        "message": "Trailing whitespace",
-        "message-id": "C0303"
-    },
-    {
-        "type": "convention",
-        "module": "tests.test_page_detector",
-        "obj": "",
-        "line": 16,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "tests/test_page_detector.py",
-        "symbol": "missing-final-newline",
-        "message": "Final newline missing",
-        "message-id": "C0304"
-    },
-    {
-        "type": "convention",
-        "module": "tests.test_page_detector",
-        "obj": "",
-        "line": 1,
-        "column": 0,
-        "endLine": null,
-        "endColumn": null,
-        "path": "tests/test_page_detector.py",
-        "symbol": "missing-module-docstring",
-        "message": "Missing module docstring",
-        "message-id": "C0114"
-    },
-    {
-        "type": "error",
-        "module": "tests.test_page_detector",
-        "obj": "",
-        "line": 3,
-        "column": 0,
-        "endLine": 3,
-        "endColumn": 10,
-        "path": "tests/test_page_detector.py",
-        "symbol": "import-error",
-        "message": "Unable to import 'cv2'",
-        "message-id": "E0401"
-    },
-    {
-        "type": "convention",
-        "module": "tests.test_page_detector",
-        "obj": "TestPageDetector",
-        "line": 6,
-        "column": 0,
-        "endLine": 6,
-        "endColumn": 22,
-        "path": "tests/test_page_detector.py",
-        "symbol": "missing-class-docstring",
-        "message": "Missing class docstring",
-        "message-id": "C0115"
-    },
-    {
-        "type": "convention",
-        "module": "tests.test_page_detector",
-        "obj": "TestPageDetector.test_page_detection",
-        "line": 8,
-        "column": 4,
-        "endLine": 8,
-        "endColumn": 27,
-        "path": "tests/test_page_detector.py",
-        "symbol": "missing-function-docstring",
-        "message": "Missing function or method docstring",
-        "message-id": "C0116"
-    }
-]
+[7;33m************* Module page_limits.page_detector[0m
+page_limits/page_detector.py:9:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:12:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:15:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:17:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:21:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:30:20: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:31:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:38:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:50:0: C0301: [1mLine too long (104/100)[0m ([1mline-too-long[0m)
+page_limits/page_detector.py:60:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:64:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:75:20: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:76:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:81:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:95:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:104:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:112:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:117:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:125:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:141:0: C0301: [1mLine too long (101/100)[0m ([1mline-too-long[0m)
+page_limits/page_detector.py:144:23: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:145:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:159:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:160:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:176:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:178:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:180:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:190:0: C0301: [1mLine too long (114/100)[0m ([1mline-too-long[0m)
+page_limits/page_detector.py:192:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:196:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:197:36: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:198:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:206:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:208:91: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:209:0: C0301: [1mLine too long (103/100)[0m ([1mline-too-long[0m)
+page_limits/page_detector.py:210:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:212:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:216:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:218:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:219:88: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:220:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:223:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:228:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:245:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:248:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:253:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:254:25: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:257:0: C0301: [1mLine too long (101/100)[0m ([1mline-too-long[0m)
+page_limits/page_detector.py:261:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:270:64: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+page_limits/page_detector.py:271:0: C0304: [1mFinal newline missing[0m ([1mmissing-final-newline[0m)
+page_limits/page_detector.py:1:0: C0114: [1mMissing module docstring[0m ([1mmissing-module-docstring[0m)
+page_limits/page_detector.py:1:0: E0401: [1;31mUnable to import 'numpy'[0m ([1;31mimport-error[0m)
+page_limits/page_detector.py:2:0: E0401: [1;31mUnable to import 'cv2'[0m ([1;31mimport-error[0m)
+page_limits/page_detector.py:3:0: E0401: [1;31mUnable to import 'matplotlib'[0m ([1;31mimport-error[0m)
+page_limits/page_detector.py:4:0: E0401: [1;31mUnable to import 'scipy.ndimage'[0m ([1;31mimport-error[0m)
+page_limits/page_detector.py:5:0: E0401: [1;31mUnable to import 'scipy.ndimage'[0m ([1;31mimport-error[0m)
+page_limits/page_detector.py:6:0: E0401: [1;31mUnable to import 'scipy.signal'[0m ([1;31mimport-error[0m)
+page_limits/page_detector.py:8:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
+page_limits/page_detector.py:13:4: C0116: [1mMissing function or method docstring[0m ([1mmissing-function-docstring[0m)
+page_limits/page_detector.py:8:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
+page_limits/page_detector.py:16:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
+page_limits/page_detector.py:16:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
+page_limits/page_detector.py:37:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
+page_limits/page_detector.py:37:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
+page_limits/page_detector.py:82:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
+page_limits/page_detector.py:83:37: W0613: [35mUnused argument 'verbose'[0m ([35munused-argument[0m)
+page_limits/page_detector.py:82:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
+page_limits/page_detector.py:91:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
+page_limits/page_detector.py:91:0: R0903: [1;3;35mToo few public methods (0/2)[0m ([1;3;35mtoo-few-public-methods[0m)
+page_limits/page_detector.py:94:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
+page_limits/page_detector.py:97:8: C0103: [1mVariable name "blockSize" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:118:4: C0116: [1mMissing function or method docstring[0m ([1mmissing-function-docstring[0m)
+page_limits/page_detector.py:94:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
+page_limits/page_detector.py:121:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
+page_limits/page_detector.py:124:8: C0103: [1mAttribute name "KEYPOINT_SIZE" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:126:4: C0116: [1mMissing function or method docstring[0m ([1mmissing-function-docstring[0m)
+page_limits/page_detector.py:121:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
+page_limits/page_detector.py:130:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
+page_limits/page_detector.py:201:8: C0103: [1mAttribute name "RESIZE" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:138:12: R1705: [1;3;35mUnnecessary "else" after "return", remove the "else" and de-indent the code inside it[0m ([1;3;35mno-else-return[0m)
+page_limits/page_detector.py:149:13: W1514: [35mUsing open without explicitly specifying an encoding[0m ([35munspecified-encoding[0m)
+page_limits/page_detector.py:171:8: W0612: [35mUnused variable 'reference_descriptors'[0m ([35munused-variable[0m)
+page_limits/page_detector.py:207:4: W0221: [35mNumber of parameters was 2 in 'PointFilter.filter' and is now 3 in overriding 'SiftPointFilter.filter' method[0m ([35marguments-differ[0m)
+page_limits/page_detector.py:207:4: R0914: [1;3;35mToo many local variables (20/15)[0m ([1;3;35mtoo-many-locals[0m)
+page_limits/page_detector.py:224:12: C0103: [1mVariable name "best_matches_Q1" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:225:12: C0103: [1mVariable name "best_matches_Q2" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:226:12: C0103: [1mVariable name "best_matches_Q3" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:227:12: C0103: [1mVariable name "best_matches_Q4" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:235:24: C0103: [1mVariable name "best_matches_Q1" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:238:24: C0103: [1mVariable name "best_matches_Q2" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:241:24: C0103: [1mVariable name "best_matches_Q4" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:244:24: C0103: [1mVariable name "best_matches_Q3" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:215:12: W0612: [35mUnused variable 'cont'[0m ([35munused-variable[0m)
+page_limits/page_detector.py:130:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
+page_limits/page_detector.py:256:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
+page_limits/page_detector.py:259:8: C0103: [1mAttribute name "pointDetector" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:260:8: C0103: [1mAttribute name "pointFilter" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:257:47: C0103: [1mArgument name "pointDetector" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:257:76: C0103: [1mArgument name "pointFilter" doesn't conform to snake_case naming style[0m ([1minvalid-name[0m)
+page_limits/page_detector.py:262:4: E0102: [1;31mmethod already defined line 257[0m ([1;31mfunction-redefined[0m)
+page_limits/page_detector.py:267:4: C0116: [1mMissing function or method docstring[0m ([1mmissing-function-docstring[0m)
+page_limits/page_detector.py:256:0: R0903: [1;3;35mToo few public methods (1/2)[0m ([1;3;35mtoo-few-public-methods[0m)
+[7;33m************* Module setup[0m
+setup.py:10:0: C0304: [1mFinal newline missing[0m ([1mmissing-final-newline[0m)
+setup.py:1:0: C0114: [1mMissing module docstring[0m ([1mmissing-module-docstring[0m)
+[7;33m************* Module tests.test_page_detector[0m
+tests/test_page_detector.py:7:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+tests/test_page_detector.py:14:0: C0303: [1mTrailing whitespace[0m ([1mtrailing-whitespace[0m)
+tests/test_page_detector.py:16:0: C0304: [1mFinal newline missing[0m ([1mmissing-final-newline[0m)
+tests/test_page_detector.py:1:0: C0114: [1mMissing module docstring[0m ([1mmissing-module-docstring[0m)
+tests/test_page_detector.py:3:0: E0401: [1;31mUnable to import 'cv2'[0m ([1;31mimport-error[0m)
+tests/test_page_detector.py:6:0: C0115: [1mMissing class docstring[0m ([1mmissing-class-docstring[0m)
+tests/test_page_detector.py:8:4: C0116: [1mMissing function or method docstring[0m ([1mmissing-function-docstring[0m)
+
+
+Report
+======
+212 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |5      |5          |=          |40.00       |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |10     |10         |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|method   |24     |24         |=          |79.17       |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|function |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+External dependencies
+---------------------
+::
+
+    page_limits 
+      \-page_detector (tests.test_page_detector)
+
+
+
+307 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |230    |74.92 |NC       |NC         |
++----------+-------+------+---------+-----------+
+|docstring |7      |2.28  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |2      |0.65  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|empty     |68     |22.15 |NC       |NC         |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |88     |88       |88         |
++-----------+-------+---------+-----------+
+|refactor   |11     |11       |11         |
++-----------+-------+---------+-----------+
+|warning    |5      |5        |5          |
++-----------+-------+---------+-----------+
+|error      |8      |8        |8          |
++-----------+-------+---------+-----------+
+
+
+
+% errors / warnings by module
+-----------------------------
+
++--------------------------+------+--------+---------+-----------+
+|module                    |error |warning |refactor |convention |
++==========================+======+========+=========+===========+
+|page_limits.page_detector |87.50 |100.00  |100.00   |90.91      |
++--------------------------+------+--------+---------+-----------+
+|tests.test_page_detector  |12.50 |0.00    |0.00     |6.82       |
++--------------------------+------+--------+---------+-----------+
+|setup                     |0.00  |0.00    |0.00     |2.27       |
++--------------------------+------+--------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|trailing-whitespace        |47          |
++---------------------------+------------+
+|invalid-name               |15          |
++---------------------------+------------+
+|missing-class-docstring    |10          |
++---------------------------+------------+
+|too-few-public-methods     |9           |
++---------------------------+------------+
+|import-error               |7           |
++---------------------------+------------+
+|missing-function-docstring |5           |
++---------------------------+------------+
+|line-too-long              |5           |
++---------------------------+------------+
+|missing-module-docstring   |3           |
++---------------------------+------------+
+|missing-final-newline      |3           |
++---------------------------+------------+
+|unused-variable            |2           |
++---------------------------+------------+
+|unused-argument            |1           |
++---------------------------+------------+
+|unspecified-encoding       |1           |
++---------------------------+------------+
+|too-many-locals            |1           |
++---------------------------+------------+
+|no-else-return             |1           |
++---------------------------+------------+
+|function-redefined         |1           |
++---------------------------+------------+
+|arguments-differ           |1           |
++---------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 3.21/10 (previous run: 3.21/10, +0.00)
+
