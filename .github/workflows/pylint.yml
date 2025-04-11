@@ -22,8 +22,12 @@ jobs:
       run: |
         pylint $(git ls-files '*.py') --output-format=json | pylint-json2html -o pylint.html
 
-    - name: Upload pylint report
-      uses: actions/upload-artifact@v4
+    - name: Deploy pylint.html to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        name: pylint-report
-        path: pylint.html
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .  # el archivo está en el root
+        publish_branch: metrics
+        keep_files: false
+
+        force_orphan: true
