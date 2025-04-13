@@ -26,14 +26,11 @@ jobs:
         pip install pylint pylint-json2html pylint-report
     - name: Analysing the code with pylint
       run: |
+        mkdir -p metrics
         # pylint $(git ls-files '*.py') --output-format=json --exit-zero | pylint-json2html -o metrics/pylint_data.html
         # pylint $(git ls-files '*.py') --reports=y --score=y --output-format=text --exit-zero > metrics/pylint_resume.txt
         pylint page_limits | pylint_report > metrics/pylint_resume.html
-    - name: Commit report to repo
-      run: |
-        git config user.name "github-actions"
-        git config user.email "github-actions@github.com"
-        # git add metrics/pylint_data.html
-        git add metrics/pylint_resume.html
-        git commit -m "Update pylint report" || echo "No changes to commit"
-        git push
+    - name: Subir a Pages
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: 'metrics'
