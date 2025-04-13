@@ -51,7 +51,6 @@ page_limits/page_detector.py:261:0: C0303: Trailing whitespace (trailing-whitesp
 page_limits/page_detector.py:270:64: C0303: Trailing whitespace (trailing-whitespace)
 page_limits/page_detector.py:271:0: C0304: Final newline missing (missing-final-newline)
 page_limits/page_detector.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-page_limits/page_detector.py:1:0: E0401: Unable to import 'numpy' (import-error)
 page_limits/page_detector.py:2:0: E0401: Unable to import 'cv2' (import-error)
 page_limits/page_detector.py:3:0: E0401: Unable to import 'matplotlib' (import-error)
 page_limits/page_detector.py:4:0: E0401: Unable to import 'scipy.ndimage' (import-error)
@@ -140,6 +139,7 @@ External dependencies
 ---------------------
 ::
 
+    numpy (page_limits.page_detector)
     page_limits 
       \-page_detector (tests.test_page_detector)
 
@@ -189,7 +189,7 @@ Messages by category
 +-----------+-------+---------+-----------+
 |warning    |5      |5        |5          |
 +-----------+-------+---------+-----------+
-|error      |8      |8        |8          |
+|error      |7      |7        |7          |
 +-----------+-------+---------+-----------+
 
 
@@ -200,9 +200,9 @@ Messages by category
 +--------------------------+------+--------+---------+-----------+
 |module                    |error |warning |refactor |convention |
 +==========================+======+========+=========+===========+
-|page_limits.page_detector |87.50 |100.00  |100.00   |90.91      |
+|page_limits.page_detector |85.71 |100.00  |100.00   |90.91      |
 +--------------------------+------+--------+---------+-----------+
-|tests.test_page_detector  |12.50 |0.00    |0.00     |6.82       |
+|tests.test_page_detector  |14.29 |0.00    |0.00     |6.82       |
 +--------------------------+------+--------+---------+-----------+
 |setup                     |0.00  |0.00    |0.00     |2.27       |
 +--------------------------+------+--------+---------+-----------+
@@ -223,7 +223,7 @@ Messages
 +---------------------------+------------+
 |too-few-public-methods     |9           |
 +---------------------------+------------+
-|import-error               |7           |
+|import-error               |6           |
 +---------------------------+------------+
 |missing-function-docstring |5           |
 +---------------------------+------------+
@@ -252,5 +252,5 @@ Messages
 
 
 ------------------------------------------------------------------
-Your code has been rated at 3.21/10 (previous run: 3.21/10, +0.00)
+Your code has been rated at 3.44/10 (previous run: 3.44/10, +0.00)
 
