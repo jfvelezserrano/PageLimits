@@ -32,7 +32,7 @@ jobs:
         pylint page_limits | pylint_report > metrics/pylint_resume.html
     - name: Subir a Pages
       uses: actions/upload-pages-artifact@v3
-    - name: Deploy to GitHub Pages
-      uses: actions/deploy-pages@v4
       with:
         path: 'metrics'
+    - name: Deploy to GitHub Pages
+      uses: actions/deploy-pages@v4
