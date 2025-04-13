@@ -33,7 +33,7 @@ jobs:
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
-        git add metrics/pylint_data.html
-        git add metrics/pylint_resume.txt
+        # git add metrics/pylint_data.html
+        git add metrics/pylint_resume.html
         git commit -m "Update pylint report" || echo "No changes to commit"
         git push
