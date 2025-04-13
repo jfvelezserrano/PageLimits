@@ -35,6 +35,7 @@ jobs:
         # pylint $(git ls-files '*.py') --output-format=json --exit-zero | pylint-json2html -o metrics/pylint_data.html
         # pylint $(git ls-files '*.py') --reports=y --score=y --output-format=text --exit-zero > metrics/pylint_resume.txt
         pylint page_limits | pylint_report > metrics/pylint_resume.html
+        date
     - name: Subir a Pages
       uses: actions/upload-pages-artifact@v3
       with:
