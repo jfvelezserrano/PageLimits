@@ -28,14 +28,16 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pylint pylint-json2html pylint-report
+        pip install pylint pylint-json2html pylint-report coverage opencv-python matplotlib
     - name: Analysing the code with pylint
       run: |
         mkdir -p metrics
         # pylint $(git ls-files '*.py') --output-format=json --exit-zero | pylint-json2html -o metrics/pylint_data.html
         # pylint $(git ls-files '*.py') --reports=y --score=y --output-format=text --exit-zero > metrics/pylint_resume.txt
         pylint page_limits | pylint_report > metrics/pylint_resume.html
-        date
+        mkdir -p metrics/coverage
+        coverage run --source=page_limits -m unittest discover -s tests
+        coverage html -d metrics/coverage
     - name: Subir a Pages
       uses: actions/upload-pages-artifact@v3
       with:
