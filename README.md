@@ -8,6 +8,8 @@ Python project for detecting limits of a page that appears centered in a picture
 
 [Latest coverage report](https://jfvelezserrano.github.io/PageLimits/coverage)
 
+[Latest code documentation coverage report](https://jfvelezserrano.github.io/PageLimits/docstr-coverage.txt)
+
 ## Instalation
 This project requires:
 - python 3.10
