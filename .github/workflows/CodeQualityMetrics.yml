@@ -31,20 +31,24 @@ jobs:
         python -m pip install --upgrade pip
         pip install opencv-python matplotlib opencv-contrib-python scipy
         pip install pylint pylint-report pytest pytest-html pytest-cov docstr-coverage
+        mkdir -p metrics
+        mkdir -p metrics/coverage
+        
     - name: Analysing the code with pylint
       run: |
-        mkdir -p metrics
-        # pylint $(git ls-files '*.py') --output-format=json --exit-zero | pylint-json2html -o metrics/pylint_data.html
-        # pylint $(git ls-files '*.py') --reports=y --score=y --output-format=text --exit-zero > metrics/pylint_resume.txt
         pylint page_limits | pylint_report > metrics/pylint_resume.html
-        mkdir -p metrics/coverage
+        
+    - name: Testing and test analysis
+      run: |
         pytest --html=metrics/test_report.html --self-contained-html
         pytest --cov=page_limits --cov-report=html:metrics/coverage
 
+    - name: Code documentation analysis
+      run: |
         echo "<html><head><title>Docstring Coverage Report</title></head><body>" > metrics/docstring_coverage_report.html
         echo "<h1>Docstring Coverage Report</h1>" >> metrics/docstring_coverage_report.html
         echo "<pre>" >> metrics/docstring_coverage_report.html
-        docstr-coverage page_limits >> metrics/docstring_coverage_report.html || true
+        docstr-coverage page_limits >> metrics/docstring_coverage_report.html 2>&1 || true
         echo "</pre>" >> metrics/docstring_coverage_report.html
         echo "</body></html>" >> metrics/docstring_coverage_report.html
         
