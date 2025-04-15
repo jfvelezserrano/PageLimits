@@ -26,26 +26,34 @@ jobs:
       uses: actions/setup-python@v3
       with:
         python-version: ${{ matrix.python-version }}
-    - name: Install dependencies
+    - name: Install common dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install opencv-python matplotlib opencv-contrib-python scipy
-        pip install pylint pylint-report pytest pytest-html pytest-cov docstr-coverage
         mkdir -p metrics
         mkdir -p metrics/coverage
         
     - name: Analysing the code with pylint
       run: |
+        pip install pylint pylint-report
         pylint page_limits | pylint_report > metrics/pylint_resume.html
         
     - name: Testing and test analysis
       run: |
+        pip install pytest pytest-html pytest-cov
+        pip install opencv-python matplotlib opencv-contrib-python scipy
         pytest --html=metrics/test_report.html --self-contained-html
         pytest --cov=page_limits --cov-report=html:metrics/coverage
 
     - name: Code documentation analysis
       run: |
+        pip install docstr-coverage
         docstr-coverage page_limits >> metrics/docstring_coverage_report.txt 2>&1 || true
+
+    - name: Code documentation analysis
+      run: |
+        pip install radon
+        radon cc -a --min B -O metrics/cyclomatic_complexity.txt page_limits
+        radon raw -O metrics/raw_metricas.txt page_limits
         
     - name: Subir a Pages
       uses: actions/upload-pages-artifact@v3
