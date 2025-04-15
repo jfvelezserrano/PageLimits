@@ -51,8 +51,10 @@ jobs:
 
     - name: Code documentation analysis
       run: |
+        apt-get install pandoc
         pip install radon
-        radon cc -a --min B -O metrics/cyclomatic_complexity.txt page_limits
+        radon cc -a --md --min B -O metrics/cyclomatic_complexity.md page_limits
+        pandoc metrics/cyclomatic_complexity.md -o metrics/cyclomatic_complexity.html
         radon raw -O metrics/raw_metrics.txt page_limits
         
     - name: Subir a Pages
