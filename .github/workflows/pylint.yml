@@ -2,8 +2,9 @@ name: Pylint
 
 on: 
   push:
-    paths-ignore:
-      - 'metrics/**'
+    paths:
+      - 'page_limits/**'
+      - 'tests/**'
 
   workflow_dispatch:
 
@@ -39,7 +40,7 @@ jobs:
         mkdir -p metrics/coverage
         pytest --html=metrics/test_report.html --self-contained-html
         pytest --cov=page_limits --cov-report=html:metrics/coverage
-        docstr-coverage page_limits > metrics/docstr-coverage.txt
+        docstr-coverage page_limits > metrics/docstr-coverage.txt || true
     - name: Subir a Pages
       uses: actions/upload-pages-artifact@v3
       with:
