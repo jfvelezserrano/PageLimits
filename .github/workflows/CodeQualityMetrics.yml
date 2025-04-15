@@ -45,13 +45,7 @@ jobs:
 
     - name: Code documentation analysis
       run: |
-        echo "<html><head><title>Docstring Coverage Report</title></head><body>" > metrics/docstring_coverage_report.html
-        echo "<h1>Docstring Coverage Report</h1>" >> metrics/docstring_coverage_report.html
-        echo "<pre>" >> metrics/docstring_coverage_report.html
         docstr-coverage page_limits >> metrics/docstring_coverage_report.txt 2>&1 || true
-        cat metrics/docstring_coverage_report.txt | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' >> metrics/docstring_coverage_report.html
-        echo "</pre>" >> metrics/docstring_coverage_report.html
-        echo "</body></html>" >> metrics/docstring_coverage_report.html
         
     - name: Subir a Pages
       uses: actions/upload-pages-artifact@v3
