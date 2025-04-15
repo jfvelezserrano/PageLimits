@@ -5,7 +5,7 @@ Python project for detecting limits of a page that appears centered in a picture
 
 [Latest raw metrics](https://jfvelezserrano.github.io/PageLimits/raw_metrics.txt)
 
-[Latest cyclomatic complexity analysis](https://jfvelezserrano.github.io/PageLimits/cyclomatic_complexity.txt)
+[Latest cyclomatic complexity analysis](https://jfvelezserrano.github.io/PageLimits/cyclomatic_complexity.html)
 
 [Latest code smells by pylint report](https://jfvelezserrano.github.io/PageLimits/pylint_resume.html)
 
