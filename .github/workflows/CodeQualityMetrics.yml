@@ -40,7 +40,14 @@ jobs:
         mkdir -p metrics/coverage
         pytest --html=metrics/test_report.html --self-contained-html
         pytest --cov=page_limits --cov-report=html:metrics/coverage
-        docstr-coverage page_limits > metrics/docstr-coverage.txt || true
+
+        echo "<html><head><title>Docstring Coverage Report</title></head><body>" > metrics/docstring_coverage_report.html
+        echo "<h1>Docstring Coverage Report</h1>" >> metrics/docstring_coverage_report.html
+        echo "<pre>" >> metrics/docstring_coverage_report.html
+        docstr-coverage page_limits >> metrics/docstring_coverage_report.html || true
+        echo "</pre>" >> metrics/docstring_coverage_report.html
+        echo "</body></html>" >> metrics/docstring_coverage_report.html
+        
     - name: Subir a Pages
       uses: actions/upload-pages-artifact@v3
       with:
