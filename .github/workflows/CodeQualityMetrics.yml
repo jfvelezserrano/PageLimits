@@ -49,9 +49,9 @@ jobs:
         pip install docstr-coverage
         docstr-coverage page_limits >> metrics/docstring_coverage_report.txt 2>&1 || true
 
-    - name: Code documentation analysis
+    - name: Cyclomatic and raw ode metrics
       run: |
-        apt-get install pandoc
+        sudo apt-get update && sudo apt-get install -y pandoc
         pip install radon
         radon cc -a --md --min B -O metrics/cyclomatic_complexity.md page_limits
         pandoc metrics/cyclomatic_complexity.md -o metrics/cyclomatic_complexity.html
