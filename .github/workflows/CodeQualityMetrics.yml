@@ -53,7 +53,7 @@ jobs:
       run: |
         pip install radon
         radon cc -a --min B -O metrics/cyclomatic_complexity.txt page_limits
-        radon raw -O metrics/raw_metricas.txt page_limits
+        radon raw -O metrics/raw_metrics.txt page_limits
         
     - name: Subir a Pages
       uses: actions/upload-pages-artifact@v3
