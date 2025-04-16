@@ -29,6 +29,7 @@ jobs:
     - name: Install common dependencies
       run: |
         python -m pip install --upgrade pip
+        pip install opencv-python matplotlib opencv-contrib-python scipy
         mkdir -p metrics
         mkdir -p metrics/coverage
         
@@ -40,7 +41,6 @@ jobs:
     - name: Testing and test analysis
       run: |
         pip install pytest pytest-html pytest-cov
-        pip install opencv-python matplotlib opencv-contrib-python scipy
         pytest --html=metrics/test_report.html --self-contained-html
         pytest --cov=page_limits --cov-report=html:metrics/coverage
 
@@ -49,7 +49,7 @@ jobs:
         pip install docstr-coverage
         docstr-coverage page_limits >> metrics/docstring_coverage_report.txt 2>&1 || true
 
-    - name: Cyclomatic and raw ode metrics
+    - name: Cyclomatic and raw code metrics
       run: |
         sudo apt-get update && sudo apt-get install -y pandoc
         pip install radon
