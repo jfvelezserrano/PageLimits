@@ -5,7 +5,9 @@ import numpy as np
 from page_limits.page_detector import PageDetector
 
 class TestPageDetector(unittest.TestCase):
-    
+    """
+    Test
+    """
     
     
     def compare_corners(self, corner_list_1, corner_list_2):
